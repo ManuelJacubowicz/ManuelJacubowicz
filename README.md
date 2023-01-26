@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ipsos
-- 🌱 I’m currently learning Procesamiento de datos y comunicación institucional
+- 🌱 I’m currently learning Procesamiento de datos
 - 👯 I’m looking to collaborate on Comunicación
 -->
